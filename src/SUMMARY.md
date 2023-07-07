@@ -1,7 +1,6 @@
 # Summary
 
 - [Chapter 1: Introduction](README.md)
-  - [Overview of the book](chapter-1-1.md)
   - [Why using machine learning to enhance writing is important](chapter-1-2.md)
 - [Chapter 2: Understanding AI Writing Enhancement](chapter-2.md)
   - [Historical overview of AI writing enhancement](chapter-2-1.md)
@@ -31,6 +30,5 @@
   - [Emerging trends](chapter-8-1.md)
   - [Potential challenges and opportunities](chapter-8-2.md)
   - [Preparing for the future](chapter-8-3.md)
-- [Chapter 9: Conclusion](chapter-9.md)
 - [Conclusion](conclusion.md)
 - [Contacts](contacts.md)
