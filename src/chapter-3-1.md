@@ -1,5 +1,3 @@
-Improved Clarity and Coherence
-=============================================================================
 
 One of the key benefits of using artificial intelligence (AI) writing enhancement tools is improved clarity and coherence in written content. In this chapter, we will discuss how AI writing enhancement can help improve clarity and coherence in written content.
 

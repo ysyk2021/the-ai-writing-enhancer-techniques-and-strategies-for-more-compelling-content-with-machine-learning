@@ -1,5 +1,3 @@
-Overcoming Resistance to Change
-===============================================================================
 
 Resistance to change can be a major obstacle when implementing new technology such as AI writing enhancement. In this chapter, we will discuss some strategies for overcoming resistance to change and successfully implementing AI writing enhancement in your content creation process.
 

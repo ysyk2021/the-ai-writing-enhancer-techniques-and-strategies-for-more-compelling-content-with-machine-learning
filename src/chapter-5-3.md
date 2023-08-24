@@ -1,5 +1,3 @@
-Social Media Management
-==========================================================================
 
 AI writing enhancement technology has numerous applications in social media management. In this chapter, we will explore some of the ways that AI writing enhancement can be used to improve social media content.
 

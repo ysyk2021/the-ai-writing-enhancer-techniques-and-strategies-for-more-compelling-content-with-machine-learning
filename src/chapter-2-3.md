@@ -1,5 +1,3 @@
-How AI Writing Enhancement Works
-=================================================================================
 
 AI writing enhancement technology uses machine learning algorithms to analyze and improve written content. In this chapter, we will explore how AI writing enhancement works.
 

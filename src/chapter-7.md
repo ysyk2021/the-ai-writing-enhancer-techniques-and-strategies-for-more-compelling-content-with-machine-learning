@@ -1,5 +1,3 @@
-Chapter 7: Managing AI Writing Enhancement
-==========================================
 
 While artificial intelligence (AI) writing enhancement tools offer many benefits, it is important to manage their use responsibly and ethically. In this chapter, we will discuss how to manage AI writing enhancement.
 

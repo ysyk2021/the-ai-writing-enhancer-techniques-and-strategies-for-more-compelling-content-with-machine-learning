@@ -1,5 +1,3 @@
-Types of AI Writing Enhancement
-================================================================================
 
 AI writing enhancement technology has rapidly evolved over the years, with a range of tools and techniques that can improve written content. In this chapter, we will explore some of the different types of AI writing enhancement.
 
