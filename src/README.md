@@ -10,3 +10,7 @@ The AI Writing Enhancer is not intended to replace human creativity or voice, bu
 Whether you are a seasoned writer or just starting out, The AI Writing Enhancer can provide valuable insights and strategies for leveraging the power of AI in your writing journey. We hope this book will serve as a helpful guide for those looking to enhance their writing skills and create more compelling content.
 
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
+
+Please Buy Me a Coffee to support us if you think this book is valuable to you. click this link:
+
+https://www.buymeacoffee.com/minghaizheng
