@@ -1,5 +1,4 @@
-Chapter 8: Social Media Management
-==================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In today's digital landscape, social media has become a powerful platform for communication, engagement, and content distribution. This chapter explores the role of AI in social media management and offers techniques and strategies for using AI to enhance your social media presence effectively.
 

@@ -1,5 +1,4 @@
-Chapter 10: Potential Challenges and Opportunities
-==================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 As we delve deeper into the world of AI-powered writing enhancement, it's essential to understand the potential challenges and opportunities that come with this technology. In this chapter, we explore the hurdles you may encounter and the exciting prospects that lie ahead.
 

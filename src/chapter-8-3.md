@@ -1,5 +1,4 @@
-Chapter 11: Preparing for the Future
-====================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 As we conclude our exploration of AI writing enhancement techniques and strategies, it's essential to look ahead and consider how you can prepare for the evolving landscape of content creation. In this chapter, we discuss the steps you can take to stay at the forefront of AI-powered content generation.
 

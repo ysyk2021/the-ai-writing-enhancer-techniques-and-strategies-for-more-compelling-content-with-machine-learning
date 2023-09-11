@@ -1,5 +1,4 @@
-Chapter 6: Content Creation and Curation
-========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Effective content creation and curation are at the heart of AI-powered writing enhancement. This chapter explores techniques and strategies for leveraging machine learning to enhance the content creation and curation process, ultimately leading to more compelling and impactful content.
 

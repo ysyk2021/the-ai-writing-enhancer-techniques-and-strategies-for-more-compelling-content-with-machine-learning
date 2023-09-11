@@ -1,5 +1,4 @@
-Chapter 8: Ethical Considerations
-=================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we explore the ethical considerations surrounding the use of AI writing enhancers. As AI continues to play a significant role in content creation, it's essential to address ethical concerns to ensure responsible and ethical use.
 

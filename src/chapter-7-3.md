@@ -1,5 +1,4 @@
-Chapter 11: Addressing Potential Bias
-=====================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Bias in AI writing enhancement can have far-reaching consequences, impacting the quality, fairness, and ethicality of content. In this chapter, we explore the challenges of bias in AI writing enhancer tools and strategies to address and mitigate potential bias effectively.
 

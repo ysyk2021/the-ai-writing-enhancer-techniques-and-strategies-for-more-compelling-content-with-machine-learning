@@ -1,5 +1,4 @@
-Chapter 5: Improved Clarity and Coherence
-=========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Clarity and coherence are crucial elements of effective communication through written content. In this chapter, we explore how AI-powered writing enhancers can significantly enhance the clarity and coherence of your content, making it more understandable and engaging for your audience.
 

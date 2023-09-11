@@ -1,5 +1,4 @@
-Chapter 7: Overcoming Resistance to Change
-==========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we delve into the common challenges and strategies for overcoming resistance to change when implementing AI writing enhancers. While these tools offer numerous benefits, many individuals and organizations may face resistance when adopting new technologies. Understanding and addressing these concerns is crucial for a successful transition.
 

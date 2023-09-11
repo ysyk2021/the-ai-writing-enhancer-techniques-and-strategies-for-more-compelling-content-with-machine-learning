@@ -1,5 +1,4 @@
-Chapter 2: Historical Overview of AI Writing Enhancement
-========================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will delve into the historical development of AI writing enhancement techniques and strategies. Understanding the evolution of AI in the context of writing can provide valuable insights into the current landscape of AI-powered content generation. Let's explore the key milestones and breakthroughs that have shaped the field.
 

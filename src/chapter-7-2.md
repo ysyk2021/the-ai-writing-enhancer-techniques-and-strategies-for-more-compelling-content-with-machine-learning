@@ -1,5 +1,4 @@
-Chapter 10: Ensuring Transparency and Accountability
-====================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In the realm of AI writing enhancement, transparency and accountability are paramount. This chapter delves into the importance of these principles and offers strategies for ensuring that AI writing enhancer tools operate ethically and responsibly.
 

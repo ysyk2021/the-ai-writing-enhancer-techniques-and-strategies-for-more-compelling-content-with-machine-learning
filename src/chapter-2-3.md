@@ -1,5 +1,4 @@
-Chapter 4: How AI Writing Enhancement Works
-===========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 As we venture into the intricacies of AI-driven writing enhancement, it's crucial to grasp the underlying mechanisms that empower these systems to understand, generate, and enhance text. This chapter sheds light on the technical foundations of AI writing tools, breaking down the magic behind the machine.
 

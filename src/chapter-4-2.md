@@ -1,5 +1,4 @@
-Chapter 7: Legal Considerations
-===============================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In the world of AI-powered content generation, it's essential to be aware of the legal considerations that come into play. As you harness the power of machine learning to enhance your writing, you must navigate potential legal challenges and ensure your content complies with relevant laws and regulations. This chapter will guide you through the key legal aspects to keep in mind when using AI for writing enhancement.
 

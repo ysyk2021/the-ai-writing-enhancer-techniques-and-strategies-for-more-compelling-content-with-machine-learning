@@ -1,5 +1,4 @@
-Chapter 9: Developing an AI Writing Enhancement Strategy
-========================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will delve into the process of developing a comprehensive AI writing enhancement strategy. Creating a well-defined strategy is crucial for effectively harnessing the power of AI to enhance your content and communication.
 

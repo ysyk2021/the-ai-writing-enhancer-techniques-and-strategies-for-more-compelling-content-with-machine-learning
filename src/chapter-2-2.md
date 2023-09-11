@@ -1,5 +1,4 @@
-Chapter 3: Types of AI Writing Enhancement
-==========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the various types of AI writing enhancement techniques and strategies that have emerged in recent years. Understanding these different approaches will help you choose the most suitable tools and methods to improve your writing.
 
